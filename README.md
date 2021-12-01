@@ -15,3 +15,7 @@
 ### Section 4 - Functions & Methods
 
 - Complete
+
+### Section 5 - Control Structures & Errors
+
+- Complete
