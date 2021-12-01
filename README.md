@@ -14,4 +14,4 @@
 
 ### Section 4 - Functions & Methods
 
-- Lessons 1 through 13 complete
+- Complete
