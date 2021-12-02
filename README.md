@@ -23,3 +23,7 @@
 ### Section 6 - Objects, Classes & Data Containers/Structures
 
 - Complete
+
+### Section 7 - Summary & Checklist
+
+- Complete
