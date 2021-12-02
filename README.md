@@ -22,4 +22,4 @@
 
 ### Section 6 - Objects, Classes & Data Containers/Structures
 
-- Lessons 1 through 6 complete
+- Complete
