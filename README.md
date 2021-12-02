@@ -27,3 +27,9 @@
 ### Section 7 - Summary & Checklist
 
 - Complete
+
+### Section 8 - Course Roundup
+
+- Complete
+
+## Course Complete!
