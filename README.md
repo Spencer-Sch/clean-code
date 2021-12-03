@@ -1,35 +1,51 @@
-# Working through 'Clean Code' by Max Schwarzmuller
+# Clean Code
 
-### Section 1 - Getting Started
+#### by Maximilian Schwarzmuller
 
-- Complete
+[Udemy Link](https://www.udemy.com/course/writing-clean-code/)
 
-### Section 2 - Naming - Assigning Names to Variables, Functions, Classes & More
+---
 
-- Complete
+## Description
 
-### Section 3 - Code Structure, Comments & Formating
+Tracking my progress through the course.
 
-- Complete
+---
 
-### Section 4 - Functions & Methods
+## Course Sections
 
-- Complete
+#### Section 1 - Getting Started
 
-### Section 5 - Control Structures & Errors
+✅ Complete
 
-- Complete
+#### Section 2 - Naming - Assigning Names to Variables, Functions, Classes & More
 
-### Section 6 - Objects, Classes & Data Containers/Structures
+✅ Complete
 
-- Complete
+#### Section 3 - Code Structure, Comments & Formating
 
-### Section 7 - Summary & Checklist
+✅ Complete
 
-- Complete
+#### Section 4 - Functions & Methods
 
-### Section 8 - Course Roundup
+✅ Complete
 
-- Complete
+#### Section 5 - Control Structures & Errors
+
+✅ Complete
+
+#### Section 6 - Objects, Classes & Data Containers/Structures
+
+✅ Complete
+
+#### Section 7 - Summary & Checklist
+
+✅ Complete
+
+#### Section 8 - Course Roundup
+
+✅ Complete
 
 ## Course Complete!
+
+[Back To The Top](#clean-code)
